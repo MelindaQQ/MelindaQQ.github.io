@@ -1,5 +1,12 @@
 ---
-title: "MelindaQQ.github.io"
+title: "Melinda Ren"
+about:
+  template: jolla
+  image: images/avatar.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/<yourgithubusername>
 ---
 
 This is a Quarto website.
