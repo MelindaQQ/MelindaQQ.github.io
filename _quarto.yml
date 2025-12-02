@@ -4,11 +4,24 @@ project:
 
 website:
   title: "Melinda Ren"
-  navbar:
+  favicon:
+  navbar:images/MelindaRen.jpg.jpeg
+    search: true
     left:
       - href: index.qmd
         text: Home
       - courses.qmd
+      -sidebar: projects
+  sidebar:
+      - id: projects
+        title: "Projects"
+        style: "docked"
+        background: light
+        collapse-level: 2
+        contents:
+        - projects/project1.qmd
+        - projects/project2.qmd
+      - id:
 
 format:
   html:

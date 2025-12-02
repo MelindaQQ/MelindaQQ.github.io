@@ -1,0 +1,10 @@
+---
+title: "Undergraduate thesis"
+format: html
+---
+# Extraction and optimization of Major Minerals From Mazzaella japonica Using Retort Reciprocation Thermal Processing
+## Abstract
+Seaweed, as one of the fastest-growing plants on Earth, is abundant in major minerals, including potassium, sodium, magnesium, and calcium. This study investigated potential uses of Mazzaella japonica, a red seaweed commonly found around Vancouver Island, as a salt replacer for reducing dietary sodium intake while offering a vegan source of calcium and magnesium. Retort reciprocation thermal processing with water as a solvent was used while controlling extraction parameters including reciprocation frequency (0, 1, 2 Hz), temperature (232, 250, 268 °F), and cook time (5, 15, 25 min). Reciprocating at 2 Hz significantly lowered the average heating rate index (fh) to 433 sec compared to 1 Hz (544 sec) and 0 Hz (584 sec) (p < 0.05). Processing at 2 Hz-232°F had the significantly lowest fh of 385 sec (p < 0.05), 68% lower than the highest fh of 646 sec at 0 Hz-268°F. Reciprocating at 2 Hz significantly lowered the average heating lag factor (jch) to 0.70 compared to 1 Hz (0.86) and 0 Hz (0.98), while temperatures did not significantly affect jch (p > 0.05). The mineral contents were determined using inductively coupled plasma optical emission spectroscopy. Extraction at 268 °F significantly increased calcium, magnesium and sodium, but not potassium content. Potassium extraction ranged from 10.75 g/kg (0-232-25) to 14.96 g/kg (2-268-5) but was not significantly affected by retort conditions (p > 0.05). The Na/K ratio was significantly affected by temperature and the interaction of frequency and cook time. Response surface methodology optimized the retort conditions at 2 Hz, 268°F, and 5 min by maximizing magnesium content to 8.13 g/kg, maximizing calcium content to 3.83 g/kg, and minimizing Na/K ratio to 1.71. The results could contribute to food fortification and pharmaceutical production, promoting seaweed as a sustainable source of essential minerals for both vegetarians and the wider population.
+## Supervisor
+Dr. Anubhav Pratap-Singh 
+

@@ -9,22 +9,42 @@
   {
     "objectID": "courses.html",
     "href": "courses.html",
-    "title": "courses",
+    "title": "Courses",
     "section": "",
     "text": "STAT545: Exploratory Data Analysis"
   },
   {
     "objectID": "courses.html#current-courses",
     "href": "courses.html#current-courses",
-    "title": "courses",
+    "title": "Courses",
     "section": "",
     "text": "STAT545: Exploratory Data Analysis"
   },
   {
     "objectID": "courses.html#past-courses",
     "href": "courses.html#past-courses",
-    "title": "courses",
+    "title": "Courses",
     "section": "Past Courses",
     "text": "Past Courses"
+  },
+  {
+    "objectID": "projects/project 1.html#supervisor",
+    "href": "projects/project 1.html#supervisor",
+    "title": "Undergraduate thesis",
+    "section": "Supervisor",
+    "text": "Supervisor",
+    "crumbs": [
+      "Undergraduate thesis"
+    ]
+  },
+  {
+    "objectID": "projects/project 1.html#presentation",
+    "href": "projects/project 1.html#presentation",
+    "title": "Undergraduate thesis",
+    "section": "Presentation",
+    "text": "Presentation",
+    "crumbs": [
+      "Undergraduate thesis"
+    ]
   }
 ]
