@@ -4,6 +4,27 @@
     "href": "index.html",
     "title": "Melinda Ren",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Master of Science in Food Science\nUniversity of British Columbia"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "courses",
+    "section": "",
+    "text": "STAT545: Exploratory Data Analysis"
+  },
+  {
+    "objectID": "courses.html#current-courses",
+    "href": "courses.html#current-courses",
+    "title": "courses",
+    "section": "",
+    "text": "STAT545: Exploratory Data Analysis"
+  },
+  {
+    "objectID": "courses.html#past-courses",
+    "href": "courses.html#past-courses",
+    "title": "courses",
+    "section": "Past Courses",
+    "text": "Past Courses"
   }
 ]

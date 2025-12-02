@@ -2,17 +2,12 @@
 title: "Melinda Ren"
 about:
   template: jolla
-  image: images/MelindaRen.ipg.jpeg
+  image: images/MelindaRen.jpg.jpeg
   links:
     - icon: github
       text: Github
       href: https://github.com/MelindaQQ
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+**Master of Science in Food Science**\
+University of British Columbia
