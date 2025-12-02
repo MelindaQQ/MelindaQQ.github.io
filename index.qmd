@@ -2,11 +2,11 @@
 title: "Melinda Ren"
 about:
   template: jolla
-  image: images/avatar.png
+  image: images/MelindaRen.ipg.jpeg
   links:
     - icon: github
       text: Github
-      href: https://github.com/<yourgithubusername>
+      href: https://github.com/MelindaQQ
 ---
 
 This is a Quarto website.
